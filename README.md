@@ -1,8 +1,7 @@
 
-<!-- ABOUT THE PROJECT -->
-## Flask Application for CRUD operations on MongoDB
+# Flask Application for CRUD operations on MongoDB
 
-# I have used docker for mongoDB, 
+## I have used docker for mongoDB, 
 
 * Open the terminal and run the following command to download the MongoDB Docker image:
   ```sh
@@ -28,9 +27,10 @@
   ```sh
   docker stop mymongodb
   ```
+ <br>
   
-<h4>Make sure that you have installed all the packages required for the file and then simply run app.py</h4>
-<h4>Here is my video, performing CRUD operations through Postman</h4>
+## Make sure that you have installed all the packages required for the file and then simply run app.py
+## Here is my video, performing CRUD operations through Postman
 
 https://user-images.githubusercontent.com/103744693/236623756-969991ad-4a2b-4489-b29a-e20263d68066.mp4
 
